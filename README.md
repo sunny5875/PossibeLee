@@ -1,5 +1,5 @@
 # PossibeLee
-2022, 유니톤 
+2022, Unithon 8th 
 
 ### 프로젝트 요약 정보
 ![Frame 20](https://github.com/sunny5875/PossibeLee/assets/55349553/f1ad852e-5249-466b-9986-9dfede5e88c8)
